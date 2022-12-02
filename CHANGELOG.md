@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.2](https://github.com/folke/noice.nvim/compare/v1.3.1...v1.3.2) (2022-12-02)
+
+
+### Bug Fixes
+
+* check if loader returned a function before loading ([66946c7](https://github.com/folke/noice.nvim/commit/66946c72f0a36f37e480b5eae97aac3cdcd5961d))
+* reset preloader before trying to load the module ([08655e9](https://github.com/folke/noice.nvim/commit/08655e9f1bed638f9871d76b05928da74d1eeb68))
+
 ## [1.3.1](https://github.com/folke/noice.nvim/compare/v1.3.0...v1.3.1) (2022-12-01)
 
 
